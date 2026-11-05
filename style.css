@@ -5,7 +5,7 @@ body{
 
 .hero{
     height:90vh;
-    background:url("images/banner.jpg");
+    background:linear-gradient(rgba(0,0,0,.45), rgba(0,0,0,.45)), url("duggi1.jpg");
     background-size:cover;
     background-position:center;
 

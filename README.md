@@ -2,6 +2,8 @@
 
 A responsive pet adoption website built with HTML5, CSS3 and Bootstrap 5. Visitors can browse pets available for adoption, register, log in and contact the shelter.
 
+**Live demo:** https://vineetsing9019.github.io/pet-adoption-website/
+
 ![Available pets for adoption](screenshots/adoption.png)
 
 ## Pages
@@ -26,7 +28,7 @@ A responsive pet adoption website built with HTML5, CSS3 and Bootstrap 5. Visito
 No install needed. Download or clone the repo and open `index.html` in a browser:
 
 ```bash
-git clone https://github.com/Vineetsing9019/Pet-Adption.git
+git clone https://github.com/Vineetsing9019/pet-adoption-website.git
 ```
 
 ## Author
